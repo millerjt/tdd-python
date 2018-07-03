@@ -3,7 +3,8 @@
 
 
 
-
+# RESEARCH
+## how do post/get html requests/responses work? 
 
 
 #(DONE) Don't save blank items for every request
